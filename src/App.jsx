@@ -6,7 +6,7 @@ function App() {
     return (
       <div>
           <h1>Team name</h1>
-          <h1> add your name here</h1>
+          <h1>Matthew Brown</h1>
           <h1>Thomas Beattie</h1>
           <h1> Jose Manuel</h1>
           <h1>Dorothy Alexander</h1>
