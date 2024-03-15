@@ -12,7 +12,7 @@ function App() {
           <h1>Dorothy Alexander</h1>
           <h2>Jacob Antepli</h2>
           <h1>Abelardo Broche Ortiz</h1>
-
+          <h1>Christian Consiglio</h1>
       </div>
     )
 }
