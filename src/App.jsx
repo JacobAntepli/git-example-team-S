@@ -8,6 +8,7 @@ function App() {
           <h1>Team name</h1>
           <h1> add your name here</h1>
           <h1>Thomas Beattie</h1>
+          <h1>Dorothy Alexander</h1>
       </div>
     )
 }
