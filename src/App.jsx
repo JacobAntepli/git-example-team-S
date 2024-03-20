@@ -16,7 +16,7 @@ function App() {
             <h1>Matthew Crane</h1>
             <h1>jeffrey Li</h1>
             <h1>Ken Sebastian</h1>
-            <h1>Javier Monada</h1>
+            <h1>Javier Moncada</h1>
         </div>
     )
 }
