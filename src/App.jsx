@@ -15,6 +15,7 @@ function App() {
           <h1>Christian Consiglio</h1>
           <h1>Hanzalah Qamar</h1>
           <h1>Christopher Hunt</h1>
+          <h1>Nathaniel Schneider</h1>
       </div>
 
     )
