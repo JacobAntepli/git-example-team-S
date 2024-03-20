@@ -5,18 +5,12 @@ function App() {
     //Commit your changes and submit a pull request
     return (
       <div>
-          <h1>Team name</h1>
-          <h1>Matthew Brown</h1>
-          <h1>Thomas Beattie</h1>
-          <h1> Jose Manuel</h1>
-          <h1>Dorothy Alexander</h1>
+          <h1>Serpentine Serpentine</h1>
           <h2>Jacob Antepli</h2>
-          <h1>Abelardo Broche Ortiz</h1>
-          <h1>Christian Consiglio</h1>
           <h1>Hanzalah Qamar</h1>
           <h1>Christopher Hunt</h1>
+          <h1>Kimberly Cummings</h1>
       </div>
-
     )
 }
 
