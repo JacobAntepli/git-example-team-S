@@ -10,8 +10,10 @@ function App() {
            <h2>Jacob Antepli(again)</h2>
           <h1>Hanzalah Qamar</h1>
           <h1>Christopher Hunt</h1>
+          <h1>Nathaniel Schneider</h1>
           <h1>Kimberly Cummings</h1>
         <h1>Matthew Crane</h1>
+
       </div>
     )
 }
